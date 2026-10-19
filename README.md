@@ -19,6 +19,7 @@
 python export.py
 # 2. 运行对比推理
 python inference.py
+```
 ## 5. 原始模型与导出模型的推理结果截图
 | 原始 .pt 模型 | 导出 .onnx 模型 |
 | :---: | :---: |
