@@ -23,7 +23,7 @@ python inference.py
 ## 5. 原始模型与导出模型的推理结果截图
 | 原始 .pt 模型 | 导出 .onnx 模型 |
 | :---: | :---: |
-| <img src="results/screenshot_pt.jpg" width="450"> | <img src="results/screenshot_onnx.jpg" width="450"> |
+| <img src="https://raw.githubusercontent.com/91whn/YOLO-Export-Inference/main/results/screenshot_pt.jpg" width="450"> | <img src="https://raw.githubusercontent.com/91whn/YOLO-Export-Inference/main/results/screenshot_onnx.jpg" width="450"> |
 
 ## 6. 模型大小、推理耗时及检测效果对比
 
